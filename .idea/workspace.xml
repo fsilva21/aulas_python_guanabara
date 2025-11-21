@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c645e42-c150-4ef8-8ef9-248d79c08020" name="Changes" comment="Resolução dos exercícios 105, 106">
-      <change afterPath="$PROJECT_DIR$/Aulas/aula022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/uteis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/uteis/datas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/uteis/numeros/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/uteis/strings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/ex107/ex107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios/ex107/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex001.py" afterDir="false" />
+    <list default="true" id="8c645e42-c150-4ef8-8ef9-248d79c08020" name="Changes" comment="Adicionado: aula 22&#10;Resolução dos exercícios 107 até 112">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/ex104.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/gripadinha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex021.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,8 +171,11 @@
     "Python.ex108.executor": "Run",
     "Python.ex109.executor": "Run",
     "Python.ex110.executor": "Run",
+    "Python.ex113.executor": "Run",
+    "Python.ex114.executor": "Run",
     "Python.ex20.executor": "Run",
     "Python.moeda.executor": "Run",
+    "Python.sistema.executor": "Run",
     "Python.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -248,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763599686403</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adicionado: aula 22&#10;Resolução dos exercícios 107 até 112">
+      <option name="closed" value="true" />
+      <created>1763746072574</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763746072574</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +263,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Realocação dos arquivos" />
     <MESSAGE value="Resolução dos exercícios 105, 106" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolução dos exercícios 105, 106" />
+    <MESSAGE value="Adicionado: aula 22&#10;Resolução dos exercícios 107 até 112" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado: aula 22&#10;Resolução dos exercícios 107 até 112" />
   </component>
 </project>
