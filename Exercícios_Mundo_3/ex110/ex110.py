@@ -3,4 +3,4 @@
 import moeda
 
 preco = float(input('Digite o preço: R$'))
-print(moeda.resumo(preco,25,40))
+print(moeda.resumo(preco, 25, 40))

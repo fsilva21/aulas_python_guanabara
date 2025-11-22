@@ -1,4 +1,4 @@
-from Exercícios.ex115.lib.interface import *
+from Exercícios_Mundo_3.ex115.lib.interface import *
 
 def arquivoexiste(nome):
     try:
