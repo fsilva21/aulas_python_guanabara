@@ -2,26 +2,21 @@
 # No final, mostre a lista ordenada na tela
 
 valores = []
-contador = 0
-while True:
+for c in range(5):
     valor = int(input('Digite um valor: '))
-    if contador == 0:
+    if c == 0:
         valores.append(valor)
         print('Primeiro valor adicionado com sucesso na lista')
+        continue
+    for pos in range(len(valores)):
+        if valor <= valores[pos]:
+            valores.insert(pos,valor)
+            print(f'Valor inserido na posição {pos}')
+            break
     else:
-        for pos in range(len(valores)):
-            if valor <= valores[pos]:
-                valores.insert(pos,valor)
-                print(f'Valor inserido na posição {pos}')
-                break
-        else:
-            valores.append(valor)
-            print('Valor inserido na última posição')
-    contador += 1
+        valores.append(valor)
+        print('Valor inserido na última posição')
     print(valores)
-    if contador == 5:
-        break
-
 
 
 
